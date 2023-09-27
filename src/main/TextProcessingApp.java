@@ -13,9 +13,9 @@ import view.TextView;
 public class TextProcessingApp {
     public static void main(String[] args) {
         // Đường dẫn đến file input.txt trên máy của bạn
-        String inputFilePath = "C:/Users/ADMIN/OneDrive/Desktop/input.txt";
+        String inputFilePath = "C:/Users/ADMIN/OneDrive/Documents/NetBeansProjects/Normalizing text/src/file/input.txt";
         // Đường dẫn đến file output.txt trên máy của bạn
-        String outputFilePath = "C:/Users/ADMIN/OneDrive/Desktop/output.txt";
+        String outputFilePath = "C:/Users/ADMIN/OneDrive/Documents/NetBeansProjects/Normalizing text/src/file/output.txt";
 
         TextModel model = new TextModel();
         TextView view = new TextView();
